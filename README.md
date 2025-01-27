@@ -49,6 +49,7 @@ The above chart shows the Coffee Type Sales by Country contribution to individua
 | United States | 53.80% | 46.20% |
 
 We can clearly see that the **UK** has very less Loyalty card holders compared to the other two countries.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Recommendations
 
@@ -61,6 +62,7 @@ The specific reason for the low sales of Arabica in the UK.
 ### Customer Relations Team
 
 The specific reason for low loyalty is shown by the UK customers.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## **Assumptions and Caveats**
 
