@@ -1,6 +1,10 @@
+### Coffee Sales Dashboard
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Project Summary
 
 This project aims to analyze the sales performance of **four** distinct coffee beans types across **three** countries from **2019 to 2022**. The analysis will focus on identifying sales trends within each country, determining the overall top five customers, and observing changes over time. To facilitate deeper insights, the interactive dashboard will provide filtering options based on roast type, coffee order size (in kilograms), loyalty card usage, and customizable time frames.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Executive Summary
 
