@@ -8,10 +8,9 @@ This project aims to analyze the sales performance of **four** distinct coffee b
 ## Executive Summary
 
 This is a descriptive analysis, as the data is constrained to sales figures only, without insights into profits or margins. The dataset consists of three sheets: **Orders**, **Customers**, and **Products**. The accompanying **Entity Relationship Diagram** (ERD) illustrates a one-to-many relationship from both **Customers** and **Products** to **Orders**.
+The analysis reveals that sales in America consistently rank the highest across all time frames, while Arabica coffee emerges as the top-performing product in terms of sales over time.
 
 ![Screenshot 2025-01-27 185737](https://github.com/user-attachments/assets/f86afd7c-e0eb-4f51-9210-1fe4937265d2)
-
-The analysis reveals that sales in America consistently rank the highest across all time frames, while Arabica coffee emerges as the top-performing product in terms of sales over time.
 
 ![coffee_sales_project](https://github.com/user-attachments/assets/175ff05a-19c2-4189-8622-0e818c912904)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
