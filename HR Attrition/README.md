@@ -1,4 +1,4 @@
-# Coffee Sales Dashboard
+# HR Attrition Dashboard
 
 ## Project Summary
 
